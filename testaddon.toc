@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: testaddon
+## Author: mawo1982
+## Version: 0.1
+
+main.lua
